@@ -1,7 +1,7 @@
 {
-  "name": "react-pattern-lock",
-  "version": "12.0.12",
-  "description": "Android's pattern lock",
+  "name": "react-17-pattern-lock",
+  "version": "1.0.0",
+  "description": "Fork of WinterCore's android's pattern lock for react 17",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "jsnext:main": "lib-esm/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WinterCore/react-pattern-lock.git"
+    "url": "git+https://github.com/Legapass/react-17-pattern-lock.git"
   },
   "keywords": [
     "react",
@@ -25,12 +25,12 @@
     "3x3",
     "security"
   ],
-  "author": "WinterCore <hogobbl@gmail.com> (http://www.wintercore.dev)",
+  "author": "Legapass",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WinterCore/react-pattern-lock/issues"
+    "url": "https://github.com/Legapass/react-17-pattern-lock.git/issues"
   },
-  "homepage": "https://github.com/WinterCore/react-pattern-lock#readme",
+  "homepage": "https://github.com/Legapass/react-17-pattern-lock.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
@@ -64,7 +64,7 @@
     "webpack-dev-server": "^4.3.1"
   },
   "peerDependencies": {
-    "react": "^16.9.0"
+    "react": "^17.0.2"
   },
   "files": [
     "lib",
