@@ -1,5 +1,7 @@
 # React-Pattern-Lock
 
+Fork of https://github.com/WinterCore/react-pattern-lock
+
 [![Lint & Test](https://github.com/WinterCore/react-pattern-lock/actions/workflows/integration.yml/badge.svg)](https://github.com/WinterCore/react-pattern-lock/actions/workflows/integration.yml)
 ### Android's pattern lock
 * Supports multiple sizes. eg : 2x2, 3x3, 4x4 -- 15x15.
