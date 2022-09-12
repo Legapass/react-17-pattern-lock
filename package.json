@@ -1,6 +1,6 @@
 {
   "name": "react-17-pattern-lock",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Fork of WinterCore's android's pattern lock for react 17",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
